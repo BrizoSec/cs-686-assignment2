@@ -1,6 +1,6 @@
 {
   "name": "github-profile-page",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "AI-generated GitHub profile page",
   "scripts": {
     "release": "standard-version"
