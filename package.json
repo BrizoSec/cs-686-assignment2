@@ -1,0 +1,14 @@
+{
+  "name": "github-profile-page",
+  "version": "1.0.0",
+  "description": "AI-generated GitHub profile page",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^18.4.3",
+    "@commitlint/config-conventional": "^18.4.3",
+    "husky": "^8.0.3",
+    "standard-version": "^9.5.0"
+  }
+}
